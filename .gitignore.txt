@@ -1,0 +1,6 @@
+*.exe
+/target/
+.settings
+.classpath
+.project
+*.xlsx
